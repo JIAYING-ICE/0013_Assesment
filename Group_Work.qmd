@@ -86,8 +86,8 @@ from urllib.request import urlretrieve
 
 # --- 1. Setup URLs ---
 # Using the raw links from our GitHub repository
-bib_url = "https://raw.githubusercontent.com/JIAYING-ICE/0013_Assesment/main/Reference/bio.bib"
-csl_url = "https://raw.githubusercontent.com/JIAYING-ICE/0013_Assesment/main/Reference/harvard-cite-them-right.csl"
+bib_url = "https://raw.githubusercontent.com/JIAYING-ICE/0013_Assesment/main/bio.bib"
+csl_url = "https://raw.githubusercontent.com/JIAYING-ICE/0013_Assesment/main/harvard-cite-them-right.csl"
 
 # --- 2. Download Function ---
 # Check if file exists, if not, download it.
