@@ -124,7 +124,7 @@ Part 02 Data Cleaning Step1-2  -->
 <!-- Step 05-08 -->
 #### **Figure 1.3** | Scatterplot Airbnb vs Private Rent Monthly revenue by bedroom category  
 **Summary Figure 1.3**  
-{{< pagebreak >}}
+
 
 <!-- Step 09-10 -->
 
@@ -232,9 +232,11 @@ Following the literature [1]
 Step 01-06 -->
 #### **Figure 3.1** | Average Airbnb Revenue vs Average Council Tax per Borough 
 **Summary Figure 3.1** 
+
 <!-- Step 07-09 -->
 #### **Figure 3.2** | Linear Relationship Between Revenue and Profit Loss
 **Summary Figure 3.2** 
+
 <!-- Step 10 -->
 #### **Figure 3.3** | Table + Map of Average Profit Loss per Borough 
 **Summary Figure 3.3** 
@@ -248,39 +250,80 @@ Step 01-06 -->
 @ICY (citation)
 :::
 
-**Effects of the opposition proposal for different actors**
-**For the Mayor**
->**Pros:**
-> - 
->**Cons:**
-> - 
+**Effects of the opposition proposal for different actors**  
+**For the Mayor**  
+>**Pros:**  
+> -   
+>**Cons:**  
+> -   
 
-**For the Residents:**
->**Pros:**
-> - 
->**Cons:**
-> - 
+**For the Residents:**  
+>**Pros:**  
+> -   
+>**Cons:**  
+> -  
 
-**For the City:**
->**Pros:**
-> - 
->**Cons:**
-> - 
+**For the City:**  
+>**Pros:**  
+> -   
+>**Cons:**  
+> -   
 
-**Overall judgement:**
+**Overall judgement:**  
 
 ::: {.callout-tip}
-@ICY (citation)
+@ICY (citation) (Municipality of Amsterdam, 2025)
 :::
+
+{{< pagebreak >}}
 
 
 # **Question 5: Can the story be reframed as a positive one about social mobility or housing opportunity?**
 ::: {.callout-tip}
 @ICY (citation)
 
->[1] https://www.londoncouncils.gov.uk/news-and-press-releases/2025/housing-crisis-persists-56-londoners-support-building-grey-belt#:~:text=Just%2024%25%20of%20London%20renters,at%20risk%20of%20becoming%20homeless
+>[1] https://www.londoncouncils.gov.uk/
 >
 >[2] Dayne Lee, How Airbnb Short-Term Rentals Exacerbate Los Angeles's Affordable Housing Crisis: Analysis and Policy Recommendations. 
 :::
 
+{{< pagebreak >}}
+
+# References
+
+Introduction  
+1. Wachsmuth, D., D. Chaney, D. Kerrigan, A. Shillolo, and R. Basalaev-Binder. 2018. “The High Cost of Short-Term Rentals in New York City.” McGill University. https://www.mcgill.ca/newsroom/files/newsroom/channels/attach/airbnb-report.pdf.  
+2. Quattrone, Giovanni, Davide Proserpio, Daniele Quercia, Licia Capra, and Mirco Musolesi. 2016. “Who Benefits from the ‘Sharing’ Economy of Airbnb?” In Proceedings of the 25th International Conference on World Wide Web, 1385–94. WWW ’16. Republic; Canton of Geneva, CHE: International World Wide Web Conferences Steering Committee. https://doi.org/10.1145/2872427.2874815.  
+3. https://insideairbnb.com/data-assumptions/ 
+
+Q1  
+1. https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/monitoring-london-plan 
+2. https://dl.acm.org/doi/10.1145/2872427.2874815 Who Benefits from the "Sharing" Economy of Airbnb?
+
+
+Q2  
+1. https://journals.sagepub.com/doi/10.1177/0042098020970865  Airbnb and its potential impact on the London housing market
+2. https://www.airbnb.co.uk/help/article/829
+
+Q3  
+
+
+Q4  
+1. London Plan Annual Monitoring Report 19 2021/22  
+2. https://www.nyc.gov/site/specialenforcement/registration-law/registration.page
+3. https://www.amsterdam.nl/en/housing/holiday-rentals/reporting-holiday-rentals/
+
+
+Q5  
+1. https://www.londoncouncils.gov.uk/
+2. How Airbnb Short-Term Rentals Exacerbate Los Angeles's Affordable Housing Crisis  
+
+
+(Parenthetical Citation)A: Most of the data comes from online sources [@insideairbnb].  
+
+(Narrative Citation)B: According to @insideairbnb, the data is open source.  
+
+Previous studies have confirmed this trend [@smith2021analysis; @doe2020airbnb].  
+
+Recent studies have questioned the accuracy of the data used in Airbnb research [@alsudaisIncorrectDataWidely2021].  
 
